@@ -11,7 +11,7 @@ INSERT INTO clientes VALUES
 (2, 'Carlos', 'RJ'),
 (3, 'Julia', 'SP');
 
--- Selecionar todos
+-- Selecionar todos os clientes
 SELECT * FROM clientes;
 
 -- Filtrar por cidade
