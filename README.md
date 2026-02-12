@@ -1,12 +1,13 @@
-# Consultas SQL Básicas
+# 🗄️ Consultas SQL Básicas
 
-Exercícios simples para praticar comandos SQL.
+Exercícios de banco de dados utilizando SQL.
 
-Conteúdo:
+## Conteúdo
 • CREATE TABLE
 • INSERT
 • SELECT
 • WHERE
 • COUNT
 
-Tecnologia: SQL
+## Objetivo
+Praticar manipulação de dados e consultas em banco relacional.
